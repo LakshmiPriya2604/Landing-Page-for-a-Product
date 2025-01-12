@@ -47,15 +47,15 @@ This project is a beautifully designed, fully responsive landing page for a digi
 - **Customizable:** You can easily update images, content, and colors to match your brand.
 - **Code Quality:** The code follows best practices, ensuring readability and maintainability.
 
-**Image Preview:**
+## 🛠️ Instructions to Run the Project
+1.	Download the Project:
+o	Click the link below to download the project as a ZIP file: (https://github.com/LakshmiPriya2604/Landing-Page-for-a-Product.git)
+2.	Extract the ZIP File:
+o	After downloading, extract the ZIP file to a folder on your computer.
+3.	Open the Project:
+o	Navigate to the extracted folder and open the form.html file in any web browser (e.g., Chrome, Firefox, etc.).
+4.	Interact with the Form:
+o	Enter data in the form fields. Valid and invalid inputs will be visually highlighted.
 
-![Hero Image](https://i.postimg.cc/FHjxfJgN/headphone-Photoroom.png)
 
-**Suggested Improvements:**
-
-- Add animations for a more dynamic user experience.
-- Include a working contact form using backend technologies.
-- Enhance SEO by adding meta descriptions and alt text for images.
-
-This project is an excellent starting point for anyone looking to create a professional landing page for their digital product!
 
